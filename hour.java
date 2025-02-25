@@ -8,3 +8,4 @@ int sec=min*60;
 System.out.println("\n hours : "+hour+"\n mins : "+min+"\n sec : "+sec);
 
 	}}
+	///
